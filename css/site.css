@@ -1,0 +1,16 @@
+.drag {
+    cursor:move;
+    text-align: center;
+    width:auto;
+    height:auto;
+    border:ridge 3px #cccccc;
+    overflow: hidden;
+    display:flex;
+    padding:10px;
+    margin:5px;
+}
+ul {
+    outline:inset 3px;
+    overflow:hidden;
+    width:auto;
+}
